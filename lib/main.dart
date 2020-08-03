@@ -1,18 +1,13 @@
-import 'package:modelapp/daily.dart';
 import 'package:modelapp/fifth.dart';
 import 'package:modelapp/first.dart';
-import 'package:modelapp/foodlist.dart';
 import 'package:flutter/material.dart';
 import 'package:modelapp/forth.dart';
 import 'package:modelapp/info.dart';
 import 'package:modelapp/products_list.dart';
 import 'package:modelapp/logs.dart';
-import 'package:modelapp/first.dart';
 import 'package:modelapp/second.dart';
 import 'package:modelapp/sixth.dart';
 import 'package:modelapp/third.dart';
-import 'package:toast/toast.dart';
-//import 'package:search_widget/search_widget.dart';
 
 void main() => runApp(MyApp());
 String search_ans=null;
