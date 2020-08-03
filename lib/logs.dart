@@ -5,7 +5,7 @@ import './checklist.dart';
 import 'dart:async';
 import 'package:sqflite/sqflite.dart';
 
-int tvalue = 0;
+
 int flag ;
 bool toggleValue;
 
@@ -36,7 +36,7 @@ class _Logs extends State<Logs> {
     final screenWidth = MediaQuery.of(context).size.width;
     return Scaffold(
       appBar: AppBar(
-        title: Text('Settings'),
+        title: Text('Checklist logs'),
          backgroundColor:Color(0xFFFE8A7E),
         actions: <Widget>[
           RaisedButton(
