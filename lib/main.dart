@@ -10,7 +10,7 @@ import 'package:modelapp/sixth.dart';
 import 'package:modelapp/third.dart';
 
 void main() => runApp(MyApp());
-String search_ans=null;
+String search_ans = null;
 var _controller = TextEditingController();
 class MyApp extends StatelessWidget {
   @override
@@ -171,10 +171,6 @@ class _MyHomePageState extends State<MyHomePage>
                                   ),
                                 );
                               }
-//                              else
-//                                {
-//                                  Toast.show("Did not match any Documents", context, duration: Toast.LENGTH_LONG, gravity:  Toast.TOP);
-//                                }
                             });
                           },
                         ),
