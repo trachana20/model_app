@@ -1,3 +1,4 @@
+// it displays a list of all different machines  
 import 'package:flutter/material.dart';
 import 'package:modelapp/first.dart';
 import 'package:modelapp/second.dart';
