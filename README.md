@@ -1,7 +1,7 @@
 # modelapp
 
 A new Flutter application.
-A new flutter and exciting application
+A new and exciting flutter application
 
 ## Getting Started
 
